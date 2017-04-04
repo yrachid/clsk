@@ -10,4 +10,5 @@ Command Line Swiss Knife
 - Web Page Scrapper
 - Declare env var
 - Portable node.js
+- CSV Parser
 
