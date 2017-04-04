@@ -11,4 +11,6 @@ Command Line Swiss Knife
 - Declare env var
 - Portable node.js
 - CSV Parser
+- Currency converter
+
 
