@@ -16,5 +16,6 @@ Command Line Swiss Knife
 - Portable node.js
 - CSV Parser
 - Currency converter
+- Brand new machine setup (to be used with VPSs)
 
 
