@@ -17,5 +17,6 @@ Command Line Swiss Knife
 - CSV Parser
 - Currency converter
 - Brand new machine setup (to be used with VPSs)
+- VPS access and management utils
 
 
