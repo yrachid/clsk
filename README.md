@@ -8,7 +8,11 @@ Command Line Swiss Knife
 - Json formatter
 - XML formatter
 - Web Page Scrapper
-- Declare env var
+- Easier bash profile config
+  - Declare env vars
+  - Declare Alias
+  - Declare PS1
+  - Separated config files + `source`
 - Portable node.js
 - CSV Parser
 - Currency converter
