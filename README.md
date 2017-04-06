@@ -18,5 +18,6 @@ Command Line Swiss Knife
 - Currency converter
 - Brand new machine setup (to be used with VPSs)
 - VPS access and management utils
+- Eject (remove all configuration and sensitive information from current machine)
 
 
